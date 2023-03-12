@@ -10,7 +10,7 @@ public class FactAndFib {
 		
 		
 		FactAndFib.fact(5);
-		FactAndFib.fibn(8);
+		//FactAndFib.fibn(8);
 		//FactAndFib.fibPrime(8);
 	}
 
